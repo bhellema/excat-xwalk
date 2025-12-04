@@ -1,0 +1,39 @@
+{
+  "variantName": "hero-abbvie",
+  "baseBlock": "hero",
+  "version": "1.0.0",
+  "created": "2025-12-04T19:25:00.000Z",
+  "sourceContext": {
+    "originUrl": "https://www.abbvie.com/",
+    "originPage": "AbbVie corporate homepage",
+    "blockPosition": "top"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "dark",
+    "density": "spacious",
+    "purpose": "corporate-hero",
+    "imagePattern": "background-video"
+  },
+  "contentPattern": {
+    "structure": "background + H1 + CTA link",
+    "buttonCount": 1,
+    "imageCount": 1
+  },
+  "reuseGuidance": {
+    "suitableFor": [
+      "corporate homepages",
+      "landing pages with video backgrounds",
+      "brand-focused hero sections"
+    ],
+    "notSuitableFor": [
+      "product detail pages",
+      "article pages",
+      "minimal text-only heroes"
+    ]
+  },
+  "usage": {
+    "pagesUsing": ["/index"],
+    "reuseCount": 1,
+    "lastUsed": "2025-12-04T19:25:00.000Z"
+  }
+}

@@ -19,9 +19,30 @@
     ]
   },
   {
+    "id": "cards-mixed",
+    "components": [
+      "card-mixed"
+    ]
+  },
+  {
     "id": "cards",
     "components": [
       "card"
+    ]
+  },
+  {
+    "id": "columns-overlap",
+    "components": [
+      "column-overlap"
+    ]
+  },
+  {
+    "id": "column-overlap",
+    "components": [
+      "text",
+      "image",
+      "button",
+      "title"
     ]
   },
   {

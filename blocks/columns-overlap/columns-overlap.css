@@ -1,0 +1,33 @@
+.columns-overlap > div {
+  display: flex;
+  flex-direction: column;
+}
+
+.columns-overlap img {
+  width: 100%;
+}
+
+.columns-overlap > div > div {
+  order: 1;
+}
+
+.columns-overlap > div > .columns-overlap-img-col {
+  order: 0;
+}
+
+.columns-overlap > div > .columns-overlap-img-col img {
+  display: block;
+}
+
+@media (width >= 900px) {
+  .columns-overlap > div {
+    align-items: center;
+    flex-direction: unset;
+    gap: 24px;
+  }
+
+  .columns-overlap > div > div {
+    flex: 1;
+    order: unset;
+  }
+}
