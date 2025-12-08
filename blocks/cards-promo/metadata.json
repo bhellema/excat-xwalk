@@ -1,0 +1,40 @@
+{
+  "variantName": "cards-promo",
+  "baseBlock": "cards",
+  "version": "1.0.0",
+  "created": "2025-12-07T23:32:00.000Z",
+  "sourceContext": {
+    "originUrl": "https://www.honda.ca/en/",
+    "originPage": "Honda Canada homepage",
+    "blockPosition": "middle"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "spacious",
+    "purpose": "promotional-cta",
+    "imagePattern": "icon"
+  },
+  "contentPattern": {
+    "structure": "image + heading + description + CTA button",
+    "buttonCount": 1,
+    "imageCount": 1
+  },
+  "reuseGuidance": {
+    "suitableFor": [
+      "promotional card grids",
+      "service highlight sections",
+      "quick link sections",
+      "feature overview pages"
+    ],
+    "notSuitableFor": [
+      "product catalog grids",
+      "team member listings",
+      "blog post cards"
+    ]
+  },
+  "usage": {
+    "pagesUsing": ["/en/index"],
+    "reuseCount": 1,
+    "lastUsed": "2025-12-07T23:32:00.000Z"
+  }
+}

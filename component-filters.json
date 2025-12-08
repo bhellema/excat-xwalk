@@ -25,9 +25,36 @@
     ]
   },
   {
+    "id": "cards-promo",
+    "components": [
+      "card"
+    ]
+  },
+  {
     "id": "cards",
     "components": [
       "card"
+    ]
+  },
+  {
+    "id": "carousel-vehicle",
+    "components": [
+      "carousel-vehicle-item"
+    ]
+  },
+  {
+    "id": "columns-news",
+    "components": [
+      "column"
+    ]
+  },
+  {
+    "id": "column",
+    "components": [
+      "text",
+      "image",
+      "button",
+      "title"
     ]
   },
   {
