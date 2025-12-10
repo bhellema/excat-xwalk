@@ -19,57 +19,9 @@
     ]
   },
   {
-    "id": "cards-mixed",
-    "components": [
-      "card-mixed"
-    ]
-  },
-  {
-    "id": "cards-promo",
-    "components": [
-      "card"
-    ]
-  },
-  {
     "id": "cards",
     "components": [
       "card"
-    ]
-  },
-  {
-    "id": "carousel-vehicle",
-    "components": [
-      "carousel-vehicle-item"
-    ]
-  },
-  {
-    "id": "columns-news",
-    "components": [
-      "column"
-    ]
-  },
-  {
-    "id": "column",
-    "components": [
-      "text",
-      "image",
-      "button",
-      "title"
-    ]
-  },
-  {
-    "id": "columns-overlap",
-    "components": [
-      "column-overlap"
-    ]
-  },
-  {
-    "id": "column-overlap",
-    "components": [
-      "text",
-      "image",
-      "button",
-      "title"
     ]
   },
   {
